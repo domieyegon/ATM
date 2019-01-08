@@ -1,0 +1,1 @@
+# ATM is a desktop application which allows users to sign up for an account or if they have have an account, they can login. After logging in, you can access your account, view balance, deposit money, withdraw money, view transactions view profile. It is a easy to use application with a nice interface for easy user interactivity.
